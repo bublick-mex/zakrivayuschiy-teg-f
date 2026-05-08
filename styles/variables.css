@@ -1,11 +1,10 @@
 :root {
   --main-font: "Inter-Variable";
-  --acent-font: "PressStart2P-Regular";
+  --acent-font: "PressStart2P";
   --font-weight-text: 410;
   --font-weight-title: 715;
   --font-normal: 18px;
   --font-small: 14px;
-  --font-title: 49px;
   --border: 2px #000000 solid;
   --gradient-to-right-line: repeating-linear-gradient(to right, #d3d3d3 0 2px, transparent 2px 4px);
   --gradient-to-bottom-line: repeating-linear-gradient(to bottom, #d3d3d3 0 2px, transparent 2px 4px);
