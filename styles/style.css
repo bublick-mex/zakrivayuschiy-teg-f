@@ -262,6 +262,7 @@ dialog::backdrop {
 .dialog-text {
   text-transform: uppercase;
   line-height: 150%;
+  white-space: wrap;
 }
 
 .dialog-text-row {
