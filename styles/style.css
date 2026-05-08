@@ -184,6 +184,7 @@
   color: var(--main-color);
   position: relative;
   mix-blend-mode: difference;
+  white-space: nowrap;
 }
 
 .card__icon-button:focus-visible {
@@ -234,7 +235,7 @@
 .button-save {
   flex-direction: column;
   gap: 8px;
-  width: clamp(306px, 100%, 350px);
+  width: clamp(306px, calc(295.789px + 2.723vw), 335px);
   height: 84px;
   padding: 17px 20px;
 }
