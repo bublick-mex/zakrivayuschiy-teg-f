@@ -223,7 +223,7 @@
   position: relative;
   stroke: var(--main-color);
   fill: var(--main-color);
-  min-width: 28px;
+  max-width: 28px;
   aspect-ratio: 1/1;
   mix-blend-mode: difference;
 }
@@ -353,7 +353,7 @@ dialog::backdrop {
   }
 
   .floppy {
-    max-width: 21px;
+    min-width: 21px;
   }
 
   .floppy-save {
